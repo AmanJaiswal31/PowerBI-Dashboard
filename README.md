@@ -1,68 +1,90 @@
-# 📊 Power BI Dashboard Project
+# 📊 Power BI Faculty Research Dashboard
 
-## 🔍 Overview
-This repository contains a **Power BI Dashboard** built using real-world faculty research data.  
-The project focuses on transforming raw data into meaningful insights through interactive visualizations.
-
----
-
-## 🎯 Objective
-- Analyze faculty research data efficiently  
-- Build interactive dashboards for better decision-making  
-- Present insights in a visually appealing and understandable format  
+An interactive **Power BI Dashboard** designed to analyze and visualize faculty research data.  
+This project transforms raw datasets into meaningful insights, enabling better decision-making through data-driven analysis.
 
 ---
 
-## 📁 Project Files
+## 🚀 Features
+
+- 📊 Interactive dashboard with dynamic visuals  
+- 🔍 Data filtering using slicers and controls  
+- 📈 Comparative analysis of research metrics  
+- 🧹 Clean and structured data visualization  
+- ⚡ Fast and responsive performance  
+- 🎯 User-friendly and intuitive design  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Power BI** – Dashboard creation & visualization  
+- **Microsoft Excel** – Data source & preprocessing  
+- **Data Analysis Techniques** – Insight generation  
+
+---
+
+## 📂 Project Files
+
 - 📄 `faculty_data_1000.xlsx` → Dataset used for analysis  
 - 📊 `PowerBI DashBoard.pbix` → Power BI dashboard file  
 - 🖥️ `Faculty_Research_Dashboard_PPT.pptx` → Project presentation  
 
 ---
 
-## 📊 Dashboard Features
-- 📌 Interactive filters and slicers  
-- 📈 Data visualization using charts and graphs  
-- 📊 Comparative analysis of research metrics  
-- 📍 Clean and user-friendly interface  
+## 📊 Dashboard Highlights
 
----
-
-## 🛠️ Tools & Technologies
-- **Power BI** – Data visualization  
-- **Microsoft Excel** – Data preprocessing  
-- **Data Analysis Techniques**  
+- 📌 KPI-based insights for research performance  
+- 📊 Visual comparison across departments / metrics  
+- 📈 Trend analysis using charts and graphs  
+- 🎛️ Interactive controls for better exploration  
 
 ---
 
 ## 📸 Dashboard Preview
- 
+
+*(Add screenshots here for better visual impact)*
+
 ---
 
 ## 🚀 How to Use
+
 1. Download the `.pbix` file  
-2. Open it using Power BI Desktop  
-3. Explore the dashboard with filters and visuals  
+2. Open using **Power BI Desktop**  
+3. Explore the dashboard using filters and visuals  
 
 ---
 
 ## 💡 Key Insights
-- Improved understanding of faculty performance  
-- Easy comparison across different metrics  
-- Data-driven decision support  
+
+- Improved understanding of faculty research performance  
+- Easy comparison across multiple parameters  
+- Helps in making data-driven academic decisions  
+
+---
+
+## 🎯 Use Cases
+
+- 📚 Academic institutions  
+- 📊 Research analysis  
+- 🧑‍💼 Data visualization practice  
+- 🎓 Student projects  
 
 ---
 
 ## 🤝 Contribution
-Feel free to fork this repository and improve the dashboard or add new features.
+
+Contributions are welcome! Feel free to fork this repository and enhance the dashboard.
 
 ---
 
 ## 📬 Contact
+
 - 📧 Email: amanjaiswal.cse@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/amanjaiswal31/
 
 ---
 
-## ⭐ If you like this project
-Give it a ⭐ on GitHub!
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub!
